@@ -24,6 +24,3 @@ python3 1-url_scraper.py
 python3 2-sneaker_scraper.py
 python3 3-image_downloader.py
 ```
-
-## Contact Me
-chaseahn4@gmail.com
