@@ -1,9 +1,6 @@
 # StockX Scraper
 A program to scrape **every** sneaker on StockX! 
 
-## About
-> I wrote this program to scrape data for my sneaker application, Venture Kicks! Check it out when you have the chance :)
-
 ## Dependencies
 ```python
 pip3 install bs4
